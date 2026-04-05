@@ -127,9 +127,7 @@ export default function LoginPage() {
       </form>
 
       <div className="pt-2 border-t border-border">
-        <p className="text-xs text-text-tertiary text-center">
-          Demo credentials: <span className="text-text-secondary font-mono">demo@taskflow.dev</span> / <span className="text-text-secondary font-mono">Demo1234</span>
-        </p>
+       
       </div>
     </div>
   );
